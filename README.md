@@ -1,4 +1,4 @@
-# File Integretiy Monitoring 
+# File Integrity Monitoring 
 
 The FileIntegrityMonitoring.ps1 script is designed to monitor the integrity of critical files by calculating and comparing their hash values to detect any unauthorized changes. The script starts by defining a list of critical files that need monitoring and specifying a path to store the hash values of these files in a JSON file.
 
